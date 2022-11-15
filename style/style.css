@@ -140,10 +140,10 @@ body {
 .work_list_item {
     font-style: normal;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 27px;
     line-height: 28px;
     color: #000000;
-    width: 750px;
+    width: 700px;
 }
 
 .Education {
@@ -174,7 +174,7 @@ body {
 }
 
 .Education_courses {
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 .Courses {
@@ -197,11 +197,11 @@ body {
 .Sidebar {
     background-color: #394e6f;
     padding-top: 40px;
-    width: 400px;
+    width: 380px;
 }
 
 .photo {
-    width: 400px;
+    width: 380px;
     margin-bottom: 32px;
 }
 
