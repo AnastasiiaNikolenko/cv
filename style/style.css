@@ -6,7 +6,7 @@ body {
 .Main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1300px;
+    width: 1250px;
     margin: 0 auto;
 }
 
@@ -32,8 +32,8 @@ body {
     font-size: 30px;
     line-height: 36px;
     color: #000000;
-    margin-top: 40px;
-    width: 750px;
+    margin-top: 60px;
+    width: 700px;
 }
 
 .project_item {
@@ -53,11 +53,11 @@ body {
 .about_position {
     font-style: normal;
     font-weight: 700;
-    font-size: 34px;
+    font-size: 30px;
     line-height: 26px;
     color: #000000;
     margin-bottom: 20px;
-    width: 800px;
+    width: 700px;
 }
 
 .about_name {
@@ -88,7 +88,7 @@ body {
     font-size: 30px;
     line-height: 34px;
     color: #000000;
-    width: 800px;
+    width: 700px;
 }
 
 .organization {
@@ -123,7 +123,7 @@ body {
     font-size: 28px;
     line-height: 28px;
     color: #000000;
-    width: 800px;
+    width: 700px;
 }
 
 .Education {
@@ -153,6 +153,10 @@ body {
     color: #000000;
 }
 
+.Education_courses {
+    margin-top: 150px;
+}
+
 .Courses {
     font-weight: 700;
     font-size: 28px;
@@ -166,7 +170,6 @@ body {
     font-size: 32px;
     line-height: 36px;
     color: #000000;
-    margin-top: 150px;
     width: 600px;
 
 }
